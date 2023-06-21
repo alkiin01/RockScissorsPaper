@@ -1,5 +1,5 @@
 # RockScissorsPaper
--
+- Write in your CLI "dotnet run"
 1. You as a human player will face a computer AI in the mortal game of rock-paper-scissors. 
 2. At the start of the game, system will ask the player to enter their name. 
 3. Both the player and the computer will have 3 health points/hit points each. 
