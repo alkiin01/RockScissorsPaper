@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WPH Test</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<style>
+    
+    picture{
+        width: 50%;
+        max-height: fit-content;
+        display: cover;
+    }
+    img{
+        max-width: 100%;
+        max-height: fit-content;
+        object-fit: cover;
+    }
+    
+</style>
+</head>
+<body class="">
+    <section class="container-fluid">
+    <div class="row">
+        <div class="col-xl-12 col-md-12 col-sm-12">
+        <div class="card col-sm-12">
+            <div class="card-body">
+                <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <picture>
+                        <img src="bg.jpg" alt="">
+                    </picture>
+                </div>
+                <div class="col-lg-6 col-md-12 col-xs-12">
+                    <a href="#" class="text-info h3" id="ocbc" style="text-decoration: none;">OCBC Cycle 2015</a>
+                    <table>
+                        <tr>
+                            <td class="fw-bold">Vanue</td>
+                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, laborum esse? Perferendis dolorum iste eum nam, veniam deleniti nihil sunt.</td>
+                            <td class="text-lg-center"><h1><i class="fa fa-map-marker text-info "></h1></i></td>
+                        </tr>
+                        <tr>
+                            <td class="fw-bold">Date</td>
+                            <td>15 June 2015 <br> 08:00 AM</td>
+                        </tr>
+                    </table>
+                    <a href="#" class="text-info h3" id="website" style="text-decoration: none;">Website</a>
+                    <br><span>Let's hit the road agins as OCBC Cycle Singapore 2011 rides into town! Join us for cycling event of the years as the fun goes of for three days in a row, starting from 4 march! adding to the thrill, is the Professional Criterium</span>
+                    <div class="d-flex justify-content-end "> See similar events  <span class="h5 pl-3"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></span> </div>
+                </div>
+            </div>
+            </div>
+        </div>
+       
+    </div>
+
+    </div>
+</section>
+</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://kit.fontawesome.com/17bf7b2406.js" crossorigin="anonymous"></script>
+</html>
+<script>
+    $(document).ready(function () {
+        $("#website").click(function(e){
+            e.preventDefault()
+            alert(this.text)
+        })
+        $("#ocbc").click(function(e){
+            e.preventDefault()
+            alert(this.text)
+        });
+        
+    });
+</script>

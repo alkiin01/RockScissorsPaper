@@ -1,0 +1,15 @@
+B:\Aplikasi Web\20-06-2023 Al Kindi\bin\Debug\net7.0\20-06-2023 Al Kindi.exe
+B:\Aplikasi Web\20-06-2023 Al Kindi\bin\Debug\net7.0\20-06-2023 Al Kindi.deps.json
+B:\Aplikasi Web\20-06-2023 Al Kindi\bin\Debug\net7.0\20-06-2023 Al Kindi.runtimeconfig.json
+B:\Aplikasi Web\20-06-2023 Al Kindi\bin\Debug\net7.0\20-06-2023 Al Kindi.dll
+B:\Aplikasi Web\20-06-2023 Al Kindi\bin\Debug\net7.0\20-06-2023 Al Kindi.pdb
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.csproj.AssemblyReference.cache
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.GeneratedMSBuildEditorConfig.editorconfig
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.AssemblyInfoInputs.cache
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.AssemblyInfo.cs
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.csproj.CoreCompileInputs.cache
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.dll
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\refint\20-06-2023 Al Kindi.dll
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.pdb
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\20-06-2023 Al Kindi.genruntimeconfig.cache
+B:\Aplikasi Web\20-06-2023 Al Kindi\obj\Debug\net7.0\ref\20-06-2023 Al Kindi.dll
